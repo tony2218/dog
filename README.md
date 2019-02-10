@@ -4,6 +4,13 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+---
+**NOTE**
+
+[This is my solution](https://github.com/StephanU/dog-project/blob/master/dog_app.ipynb) for the dog breed classification problem using convolutional neural networks. This was done as part of the [Udacity Machine Learning Engineer Nanodegree program](https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
+
+---
+
 
 ## Project Overview
 
